@@ -1,0 +1,122 @@
+
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+    background-color:rgb(20, 20, 18)
+}
+p{
+    color: white;
+    font-size :2vw;
+    font-family: "Montserrat", serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+}
+
+
+.hrtop {
+    width: 120%;
+    height:2px;
+    background-color:white;
+    border: none;
+    margin-left: 20%
+    
+
+}
+.birthstone-regular {
+    font-family: "Birthstone", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(245, 175, 25);
+    font-size: 5vw;
+    margin-left: 45%;
+  }
+.container {
+    display: grid;
+    align-items: center; 
+    grid-template-columns: 1fr 1fr;
+    column-gap: 5px;
+    margin-top: 5%;
+   }
+.birthstone-regular2 {
+    font-family: "Birthstone", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(245, 175, 25);
+    font-size: 4.5vw;
+    margin-top: 15%;
+   
+}
+.textl{
+    font-size: 2vw;
+    color: white;
+    margin-left: 5%;
+    margin-right: -10%;
+    text-align: left;
+}
+
+.dot {
+    color : white;
+    font-size: 6vw;
+    text-align: right;
+    margin-top: 3%;
+}
+.textr{
+    font-size: 2vw;
+    color: white;
+    margin-left: -10%;
+    margin-right: 5%;
+    text-align: left;
+    margin-top: 20%;
+}
+.imgpadr{
+    margin-right: 10%;
+    margin-left: 30%;
+    width: 70%;
+    height: 70%;
+}
+
+.imgpadl{
+    margin-right: 20%;
+    margin-left: 0%;
+    width: 70%;
+    height: 70%;
+}
+.hrdec {
+    width: 50%;
+    height:2px;
+    background-color:rgb(245, 175, 25);
+    border: none;
+    margin-left: 17%;
+    margin-top: 29%
+    ;
+}
+.hoatrai{
+    width: 70%;
+    height: 70%;
+    margin-bottom: -30%;
+    margin-top: -28%;
+    margin-left: -5%;
+}
+.hoaphai{
+    width: 70%;
+    height: 70%;
+    margin-top: -28%;
+    margin-left: 60%;
+}
+.merienda {
+    font-family: "Merienda", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: italic;
+    font-size: 5vw;
+    color: rgb(245, 175, 25);
+
+  }
+.imgpadr2 {
+    margin-left: 23%
+}
+.imgsize { 
+    height: 100%;
+    width: 100%
+}
