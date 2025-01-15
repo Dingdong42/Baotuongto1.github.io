@@ -2,7 +2,7 @@
 html, body {
     max-width: 100%;
     overflow-x: hidden;
-    background-color:rgb(35, 77, 58)
+    background-color:rgb(13, 17, 23)
 }
 p{
     color: white;
@@ -167,7 +167,7 @@ p{
     margin-left: 10%;
 }
 .bg {
-    background-image: url('17.png');
+    background-image: url('30.png');
     background-size:contain;
     background-repeat: no-repeat;
     display: grid;
@@ -184,4 +184,9 @@ p{
 }
 .pos {
     margin-top: 15%;
+}
+.cmt {
+     width: 99%;
+     background-color: rgb(13, 17, 23);
+     color:crimson;
 }
