@@ -2,7 +2,7 @@
 html, body {
     max-width: 100%;
     overflow-x: hidden;
-    background-color:rgb(20, 20, 18)
+    background-color:rgb(35, 77, 58)
 }
 p{
     color: white;
@@ -128,3 +128,59 @@ p{
     column-gap: 5px;
     margin-top: 5%;
    }
+.multiline {
+    white-space: pre-wrap;  }
+.logo {
+    width: 30%;
+    height: 30%;
+    align-items: center;
+    margin-left: 31%;
+    margin-top: 10%;
+  
+}
+.imgsize2 {
+    width: 90%;
+    height: 90%;
+}
+.tho {
+    text-align: center;
+    color: white;
+    font-family: "Montserrat", serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+}
+.tho.mot{
+    margin-left: -8%;
+    font-size : 1.5vw;
+}
+.tho.hai {
+    font-size: 1.7vw;
+    line-height: 180%;
+    margin-top: 35%;
+    margin-left: 16%;
+}
+.imgsize3 {
+    width: 90%;
+    height: 90%;
+    margin-left: 10%;
+}
+.bg {
+    background-image: url('17.png');
+    background-size:contain;
+    background-repeat: no-repeat;
+    display: grid;
+    align-items: center; 
+    grid-template-columns: 1fr 1fr;
+    column-gap: 5px;
+    margin-top: 5%;
+}
+.imgsize4 {
+    width: 70%;
+    height: 70%;
+    margin-left: 22%;
+    margin-top: 2%;
+}
+.pos {
+    margin-top: 15%;
+}
